@@ -6,5 +6,6 @@ Flutter crypto currency app.
 
 API used from 
 - [CoinmarketCap](https://coinmarketcap.com/api/)
-- [Resource used](https://www.youtube.com/watch?v=cPlaYS4eqe4)
 
+Learning resource
+- [Resource used](https://www.youtube.com/watch?v=cPlaYS4eqe4)
